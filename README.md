@@ -1,5 +1,5 @@
 # Agregar herencia en Java-Actividad_3
-Agregar herencia en Java Aplicación desarrollada en Java para practicar la herencia, utilizando una clase base y clases derivadas.
+Aplicación desarrollada en Java para practicar la herencia, utilizando una clase base y clases derivadas.
 
 ¿Qué contiene?
 
