@@ -1,5 +1,6 @@
 # Actividad-formativa-3-Java
 Agregar herencia en Java
+
 Aplicación desarrollada en Java para practicar la herencia, utilizando una clase base y clases derivadas.
 
 ¿Qué contiene?
