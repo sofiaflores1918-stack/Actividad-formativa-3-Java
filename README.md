@@ -1,2 +1,1 @@
-# Actividad-formativa-2-Java
-Aplicación sencilla en Java para practicar clases, objetos, constructores y métodos.
+# Agregar herencia en Java-Actividad_3
